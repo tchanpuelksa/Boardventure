@@ -1,4 +1,4 @@
-package gui;
+package com.github.tchanpuelksa.gui;
 
 public class Main {
 
